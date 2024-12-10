@@ -11,4 +11,5 @@ def sumer_time(x,y):
     res = x+y
     return res
 
-YO, YA IZMENIL TEBYA
+
+A YA izmenil file hello.txt
