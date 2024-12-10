@@ -5,3 +5,8 @@ IS
 GLEB
 VASYA
 MOLODEC
+x = int(input())
+y = int(input())
+def sumer_time(x,y):
+    res = x+y
+    return res
