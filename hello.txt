@@ -12,3 +12,6 @@ def sumer_time(x,y):
     return res
 
 YO, YA IZMENIL SEBYA
+
+
+ЭТО НОВОЕ ИЗМЕНЕНИЕ НА РУССКОМ ЯЗЫКЕ
