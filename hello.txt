@@ -10,6 +10,3 @@ y = int(input())
 def sumer_time(x,y):
     res = x+y
     return res
-
-if res == 25:
-    print("HELLO WORD")
